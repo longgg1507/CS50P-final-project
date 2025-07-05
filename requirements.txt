@@ -1,0 +1,10 @@
+requirements for my projects:
+*library/module:
+    - pygame
+    - requests
+    - sys
+    - json
+
+*API:
+    - weather stack API: http://api.weatherstack.com/current
+    (with the "current" endpoint, API key required)
